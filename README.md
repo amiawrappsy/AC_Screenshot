@@ -7,6 +7,7 @@ A screenshot plugin for **Aicomi** (ILLGames), similar to the screenshot manager
 This is a standalone plugin for Aicomi only. You don't need any of the other versions installed. If you also play other ILLGames titles, they have their own separate versions: [HC_Screenshot](https://github.com/amiawrappsy/HC_Screenshot) (HoneyCome and DigitalCraft) and [SVS_Screenshot](https://github.com/amiawrappsy/SVS_Screenshot) (SamabakeScramble).
 
 ## Features
+<img width="1282" height="767" alt="image" src="https://github.com/user-attachments/assets/e235c3e5-9d85-4f0f-97a7-2d9adee8dc71" />
 
 - **High-resolution renders** at any size up to your GPU's limit (usually 16384 px), regardless of window size.
 - **Supersampling** (1–4×) for smooth, anti-aliased edges.
